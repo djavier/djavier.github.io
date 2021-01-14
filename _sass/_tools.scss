@@ -1,0 +1,66 @@
+
+
+.tool-list{
+  text-align: center;
+  margin:0 auto;
+  flex-flow:row;
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  width:100%;
+
+}
+
+.perk {
+  margin:0 10px;
+  max-height:200px;
+
+  .perk-image {
+    margin-top: 10px;
+  }
+}
+
+.tools {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  padding: 20px 0;
+  background-color: $nickname-color;
+  color: $text-color;
+
+  h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .sub-header{
+    text-align: center;
+  }
+
+
+
+  .tool {
+      width: 60px;
+      margin: 0 10px;
+
+      a {
+        text-decoration: none;
+      }
+
+      .tool-text {
+        visibility: hidden;
+        color: $text-color;
+      }
+
+      &:hover {
+        .tool-text {
+          visibility: visible;
+        }
+
+        width: 80px;
+      }
+      .tool-image {
+        margin:0 10px 10px 0;
+        width:100%;
+        float:left;
+      }
+    }
+}

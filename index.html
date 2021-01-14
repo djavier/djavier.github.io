@@ -21,3 +21,36 @@ layout: default
     </span>
   </div>
 </header>
+<section class="tools">
+  <h1>{{site.tools.title}}</h1>
+  <h3 class="sub-header">{{site.tools.description}}</h3>
+  <div class="tool-list">
+  {% for tool in site.tools.items %}
+    <div class="tool">
+      <a target="_blank" href="#">
+        <img class="tool-image" src="{{tool.image}}" alt="{{tool.name}}">
+        <span class="tool-text">{{ tool.name }}</span>
+      </a>
+    </div>
+  {% endfor %}
+  </div>
+</section>
+<div class="clearfix" />
+<section id="timeline">
+	<p class="leader">List of technologies and services that have helped me on the journey.</p>
+	<div class="demo-card-wrapper">
+  {% for service in site.services %}
+		<div class="demo-card demo-card--step{{service.step}}">
+			<div class="head">
+				<div class="number-box">
+					<span>{{service.year}}</span>
+				</div>
+			</div>
+			<div class="body">
+        {% for item in service.list %}
+          <img src="{{item.image}}" alt="{{item.name}}">
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</section>
