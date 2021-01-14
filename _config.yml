@@ -4,3 +4,229 @@ author:
   name: Dariel Javier
   nickname: DJ
   twitter: djavier
+hostname: djavier.github.io
+url: https://djavier.me
+
+social:
+  name: Dariel Javier
+  links:
+    - https://twitter.com/djavier
+    - https://github.com/djavier
+    - https://djavier.me/
+    - http://www.linkedin.com/in/darieljavier
+
+links:
+  - name: email
+    url: mailto://dariel.javier@gmail.com
+    class: fa fa-envelope-o
+  - name: github
+    url: https://github.com/djavier
+    class: fab fa-github
+  - name: twitter
+    url: https://twitter.com/darieljavier
+    class: fab fa-twitter
+  - name: linkedin
+    url: https://www.linkedin.com/in/darieljavier/
+    class: fab fa-linkedin-in
+  - name: stackoverflow
+    url: https://stackoverflow.com/users/862521/dj
+    class: fab fa-stack-overflow
+  - name: cv (pdf)
+    id: resume
+    type: download
+    url: https://djavier.me/cv
+    class: fas fa-file-alt
+
+tools:
+  title: Tech Stack
+  description: Thanks this tecnologies that help me grind everyday.
+  items:
+    - name: Visual Studio Code
+      image: https://cdn.iconscout.com/icon/free/png-128/visual-studio-code-1868941-1583105.png
+    - name: Ruby
+      image: https://www.ruby-lang.org/images/header-ruby-logo.png
+    - name: .NET
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1200px-.NET_Logo.svg.png
+    - name: Github
+      image: https://cdn.iconscout.com/icon/free/png-128/github-34-225988.png
+    - name: React
+      image: https://cdn.iconscout.com/icon/free/png-64/react-1-282599.png
+    - name: Angular
+      image: https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png
+    - name: Visual Studio
+      image: https://cdn.iconscout.com/icon/free/png-128/logo-1889502-1597562.png
+    - name: Iterm
+      image: https://upload.wikimedia.org/wikipedia/commons/5/57/ITerm2_v3_icon.png
+    - name: Docker
+      image: https://cdn.iconscout.com/icon/free/png-128/docker-12-1175229.png
+    - name: Webpack
+      image: https://cdn.iconscout.com/icon/free/png-128/webpack-3-1174982.png
+    - name: Html
+      image: https://cdn.iconscout.com/icon/free/png-128/html-2752158-2284975.png
+    - name: SASS
+      image: https://cdn.iconscout.com/icon/free/png-128/sass-2749336-2284726.png
+    - name: Javascript
+      image: https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png
+
+services:
+  - year: 2020
+    step: 1
+    list:
+      - name: AWS Elastic Beanstalk
+        image: https://d1.awsstatic.com/icons/console_elasticbeanstalk_icon.0f7eb0140e1ef6c718d3f806beb7183d06756901.png
+      - name: AWS Services
+        image: https://www.logolynx.com/images/logolynx/86/86adbd420a1933c5942d1e73cc0bd14e.jpeg
+      - name: Redis
+        image: https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png
+      - name: Firebase
+        image: https://cdn.iconscout.com/icon/free/png-128/firebase-1-282796.png
+      - name: Sendgrid
+        image: https://cdn.iconscout.com/icon/free/png-64/sendgrid-283308.png
+      - name: CircleCI
+        image: https://cdn.iconscout.com/icon/free/png-128/circleci-283066.png
+      - name: PostgresSQL
+        image: https://cdn.iconscout.com/icon/free/png-128/postgresql-226047.png
+      - name: SQL
+        image: https://cdn.iconscout.com/icon/free/png-128/sql-4-190807.png
+      - name: MySql
+        image: https://cdn.iconscout.com/icon/free/png-128/mysql-21-1174941.png
+      - name: SOLR
+        image: https://cdn.iconscout.com/icon/free/png-64/solr-282536.png
+      - name: Typeform
+        image: https://media-exp1.licdn.com/dms/image/C560BAQFVAz1_cn7M5w/company-logo_200_200/0/1607023713968?e=1618444800&v=beta&t=3AHDQMwfPRQ2y7jXMhwEazHoBk4pUe54L7WB4WEo-c0
+      - name: Workato
+        image: https://pbs.twimg.com/profile_images/1318913306464309249/U6XKbIAS.png
+      - name: Google Analytics
+        image: https://cdn.iconscout.com/icon/free/png-128/google-analytics-189815.png
+      - name: Jira
+        image: https://cdn.iconscout.com/icon/free/png-128/jira-282222.png
+      - name: Shopify
+        image: https://cdn.iconscout.com/icon/free/png-128/shopify-226579.png
+  - year: 2019
+    step: 2
+    list:
+      - name: Paypal
+        image: https://cdn.iconscout.com/icon/premium/png-128-thumb/paypal-39-565051.png
+      - name: PostgresSQL
+        image: https://cdn.iconscout.com/icon/free/png-128/postgresql-226047.png
+      - name: SQL Server
+        image: https://cdn.iconscout.com/icon/free/png-128/sql-4-190807.png
+      - name: React Native
+        image: https://cdn.iconscout.com/icon/free/png-128/react-native-555397.png
+      - name: Fastlane
+        image: https://img.stackshare.io/service/2383/11098337.png
+      - name: CircleCI
+        image: https://cdn.iconscout.com/icon/free/png-128/circleci-283066.png
+      - name: Sendgrid
+        image: https://cdn.iconscout.com/icon/free/png-64/sendgrid-283308.png
+      - name: SAP Gigya
+        image: https://i0.wp.com/www.revistacloudcomputing.com/wp-content/uploads/2017/09/sap-adquiere-gigya.jpg?fit=800%2C600&ssl=1
+      - name: Google Analytics
+        image: https://cdn.iconscout.com/icon/free/png-128/google-analytics-189815.png
+      - name: AWS
+        image: https://www.logolynx.com/images/logolynx/86/86adbd420a1933c5942d1e73cc0bd14e.jpeg
+      - name: Graylog
+        image: data:image/png;base64,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
+      - name: Jenkins
+        image: https://cdn.iconscout.com/icon/free/png-128/jenkins-1-282385.png
+      - name: Jira
+        image: https://cdn.iconscout.com/icon/free/png-128/jira-282222.png
+  - year: 2018
+    step: 3
+    list:
+      - name: React Native
+        image: https://cdn.iconscout.com/icon/free/png-128/react-native-555397.png
+      - name: Fastlane
+        image: https://img.stackshare.io/service/2383/11098337.png
+      - name: CircleCI
+        image: https://cdn.iconscout.com/icon/free/png-128/circleci-283066.png
+      - name: SQL Server
+        image: https://cdn.iconscout.com/icon/free/png-128/sql-4-190807.png
+      - name: MySql
+        image: https://cdn.iconscout.com/icon/free/png-128/mysql-21-1174941.png
+      - name: Jenkins
+        image: https://cdn.iconscout.com/icon/free/png-128/jenkins-1-282385.png
+      - name: AWS
+        image: https://www.logolynx.com/images/logolynx/86/86adbd420a1933c5942d1e73cc0bd14e.jpeg
+      - name: Paypal
+        image: https://cdn.iconscout.com/icon/premium/png-128-thumb/paypal-39-565051.png
+      - name: Jira
+        image: https://cdn.iconscout.com/icon/free/png-128/jira-282222.png
+      - name: Redis
+        image: https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png
+      - name: Zendesk
+        image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Zendesk_logo.svg/640px-Zendesk_logo.svg.png
+      - name: CXense
+        image: https://media-exp1.licdn.com/dms/image/C4D0BAQFd-zkO6LBr3g/company-logo_200_200/0/1519898950432?e=2159024400&v=beta&t=nuPYH0IflU8b-lqEfiPVnQEv-s1TFYN4iC3d-bY2GVI
+      - name: Mailchimp
+        image: https://cdn.iconscout.com/icon/free/png-128/mailchimp-1-226024.png
+  - year: 2017
+    step: 4
+    list:
+      - name: PostgresSQL
+        image: https://cdn.iconscout.com/icon/free/png-128/postgresql-226047.png
+      - name: Python
+        image: https://cdn.iconscout.com/icon/free/png-128/python-2752092-2284909.png
+      - name: SQL Server
+        image: https://cdn.iconscout.com/icon/free/png-128/sql-4-190807.png
+      - name: CircleCI
+        image: https://cdn.iconscout.com/icon/free/png-128/circleci-283066.png
+      - name: Jenkins
+        image: https://cdn.iconscout.com/icon/free/png-128/jenkins-1-282385.png
+      - name: AWS
+        image: https://www.logolynx.com/images/logolynx/86/86adbd420a1933c5942d1e73cc0bd14e.jpeg
+      - name: SAP Gigya
+        image: https://i0.wp.com/www.revistacloudcomputing.com/wp-content/uploads/2017/09/sap-adquiere-gigya.jpg?fit=800%2C600&ssl=1
+  - year: 2016
+    step: 5
+    list:
+      - name: Jenkins
+        image: https://cdn.iconscout.com/icon/free/png-128/jenkins-1-282385.png
+      - name: Ionic
+        image: https://cdn.iconscout.com/icon/free/png-128/ionic-4-1175016.png
+      - name: GitLab
+        image: https://cdn.iconscout.com/icon/free/png-128/gitlab-282507.png
+      - name: Java
+        image: https://cdn.iconscout.com/icon/free/png-128/java-60-1174953.png
+      - name: Keycloack
+        image: https://avatars1.githubusercontent.com/u/4921466?s=280&v=4
+      - name: AWS
+        image: https://cdn.iconscout.com/icon/free/png-128/logo-144-116283.png
+      - name: MongoDB
+        image: https://cdn.iconscout.com/icon/free/png-128/mongodb-226029.png
+      - name: AWS Lamda
+        image: https://www.logolynx.com/images/logolynx/86/86adbd420a1933c5942d1e73cc0bd14e.jpeg
+      - name: Eclipse
+        image: https://cdn.iconscout.com/icon/free/png-128/eclipse-14-282371.png
+perks:
+  - name: Sony MDR-500XB
+    image: https://images-na.ssl-images-amazon.com/images/I/41xoaqsKi7L._AC_SX355_.jpg
+    width: 100px
+  - name: Redragon K552 Mechanical Keyboard
+    image: https://images-na.ssl-images-amazon.com/images/I/71cngLX2xuL._AC_SL1500_.jpg
+    width: 300px
+  - name: Magic Mouse 2
+    image: https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MLA02_AV1
+    width: 120px
+  - name: LG 25" UltraWide®
+    image: https://www.lg.com/sg/images/consumer-monitors/md05608272/gallery/25UM58_Product_image_01_Desk.jpg
+    width: 300px
+  - name: Chicago Cubs Mug
+    image: https://cdn.shopify.com/s/files/1/2128/2897/products/product-image-351646834_1000x.jpg?v=1571610829
+    width: 150px
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+
+plugins:
+- jekyll-sitemap
+- jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
