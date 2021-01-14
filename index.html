@@ -54,3 +54,17 @@ layout: default
     </div>
   {% endfor %}
 </section>
+<section>
+  <h1>My Perks</h1>
+  <div class="tool-list">
+  {% for perk in site.perks %}
+    <div class="perk" style=" width:{{perk.width}};">
+      <span>{{perk.name}}</span>
+      <div class="perk-image">
+        <img width={{perk.width}} src="{{perk.image}}" />
+      </div>
+    </div>
+  {% endfor %}
+  </div>
+</section>
+
